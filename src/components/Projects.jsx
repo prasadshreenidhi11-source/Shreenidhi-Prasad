@@ -74,6 +74,10 @@ const projects = [
    category: "DISABILITY",
    url:"https://aayds-web-redesign.vercel.app/", 
   },
+  number: 13,
+  title: "ELAN NAIL STUDIO AND SPA",
+  category: "NAIL AND SPA",
+  url: "https://elan-nail-studio-and-spa.vercel.app",
 ];
 
 function Projects() {
